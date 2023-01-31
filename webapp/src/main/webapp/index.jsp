@@ -30,6 +30,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <h1> Thankyou, Happy Learning AWS cources. </h1>
+  <h1> Thank you, Happy Learning AWS course </h1>
  
 </form>
